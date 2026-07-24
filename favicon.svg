@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect x="16" y="16" width="32" height="32" rx="4" transform="rotate(45 32 32)" fill="hsl(89, 50%, 40%)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>태안 꽃지해수욕장 노을</title>
+  <rect width="64" height="64" rx="13" fill="hsl(152 49% 28%)"/>
+  <g transform="rotate(90 32 32)"><g fill="none" stroke="hsl(152 24% 96%)" stroke-width="8" stroke-linecap="round"><path d="M32 14a18 18 0 0 1 18 18"/><path d="M32 50a18 18 0 0 1-18-18"/></g><path d="M50 32a18 18 0 0 1-18 18" fill="none" stroke="hsl(323 68% 58%)" stroke-width="8" stroke-linecap="round"/></g>
+</svg>
